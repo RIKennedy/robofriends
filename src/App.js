@@ -9,7 +9,7 @@ class App extends Component {
     constructor() {
         super()
         this.state = {
-            monsters: [],
+            monsters: monsters,
             searchfield: ''
         }
     }
