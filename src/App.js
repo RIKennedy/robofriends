@@ -4,7 +4,6 @@ import './App.css';
 import CardList from './CardList.js';
 import Searchbox from './Searchbox.js';
 import Scroll from './Scroll.js';
-import { monsters } from './monsters.js';
 
 import { setSearchField, requestRobots } from './actions.js';
 
